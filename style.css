@@ -1,0 +1,59 @@
+body {
+    padding: 40px;
+}
+div p {
+    font-family: system-ui;
+    font-size: 20px;
+    color: #1c4945;
+}
+img#list {
+   margin-left: 165px;
+}
+#header {
+    display: inline-block
+}
+p#end {
+    margin: 0;
+    text-align: center;
+}
+p.copyrights {
+    margin: 0;
+    text-align: center;
+}
+nav#header {
+    display: flex;
+    padding-bottom: 25px;
+    border-bottom: 13px solid gray;
+}
+div#logos {
+    margin-left: 811px;
+}
+h1#name {
+    font-family: fantasy;
+    margin-bottom: 0;
+}
+p#date {
+    margin-top: 0;
+    font-size: 12px;
+}
+.print {
+    float: right;
+}
+.paragraph {
+    margin-top: 45px;
+}
+img#pizza {
+    margin-left: 165px;
+}
+img#print {
+    margin-left: 1202px;
+
+}
+img.bottomLogo {
+    margin-left: 618px;
+}
+.button {
+    margin-left: 1131px;
+}
+
+
